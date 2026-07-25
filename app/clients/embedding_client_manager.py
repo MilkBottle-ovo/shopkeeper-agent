@@ -19,7 +19,7 @@ class EmbeddingClientManager:
 
     def init(self):
         # 在应用启动阶段显式调用，完成真正的客户端初始化
-        self.client = HuggingFaceEndpointEmbeddings(model=self._get_url())
+        self.client = HuggingFaceEndpointEmbeddings(model= self._get_url())
 
 
 # 模块级单例，供其他模块按需复用同一个客户端管理器
@@ -30,6 +30,7 @@ if __name__ == "__main__":
     # 本地调试入口：初始化客户端后执行一次最小化向量化调用
     embedding_client_manager.init()
     client = embedding_client_manager.client
+    
 
     async def test():
         # 使用示例文本验证 Embedding 服务是否可正常响应

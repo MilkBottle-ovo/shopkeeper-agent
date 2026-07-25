@@ -1,0 +1,184 @@
+2026-07-23 22:18:50.384 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:82 - 加载配置文件
+2026-07-23 22:18:50.385 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:86 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-23 22:18:50.385 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:87 - 表信息与字段信息构建流程后续继续补充
+2026-07-23 22:18:50.385 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:88 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-23 22:20:39.425 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:82 - 加载配置文件
+2026-07-23 22:20:39.425 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:86 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-23 22:20:39.426 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:87 - 表信息与字段信息构建流程后续继续补充
+2026-07-23 22:20:39.426 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:88 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-23 22:21:33.532 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:82 - 加载配置文件
+2026-07-23 22:21:33.532 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:86 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-23 22:21:33.532 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:87 - 表信息与字段信息构建流程后续继续补充
+2026-07-23 22:21:33.532 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:88 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-23 22:21:50.965 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:82 - 加载配置文件
+2026-07-23 22:21:50.965 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:86 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-23 22:21:50.965 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:87 - 表信息与字段信息构建流程后续继续补充
+2026-07-23 22:21:50.965 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:88 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-23 22:24:58.720 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:82 - 加载配置文件
+2026-07-23 22:24:58.721 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:86 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-23 22:24:58.721 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:87 - 表信息与字段信息构建流程后续继续补充
+2026-07-23 22:24:58.721 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:88 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 10:32:25.144 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:82 - 加载配置文件
+2026-07-24 10:32:25.145 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:86 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 10:32:25.145 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:87 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 10:32:25.145 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:88 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:10:26.963 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:10:26.963 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:10:26.963 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:10:26.963 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:10:57.872 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:10:57.872 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:10:57.872 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:10:57.872 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:11:26.730 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:11:26.731 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:11:26.731 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:11:26.731 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:12:20.299 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:12:20.299 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:12:20.299 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:12:20.299 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:28:33.411 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:28:33.411 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:28:33.411 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:28:33.411 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:28:54.339 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:28:54.339 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:28:54.340 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:28:54.340 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:29:55.970 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:29:55.970 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:29:55.971 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:29:55.971 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:31:53.395 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:31:53.396 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:31:53.396 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:31:53.396 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:32:07.926 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:32:07.926 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:32:07.926 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:32:07.926 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:38:48.430 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:38:48.430 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:38:48.430 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:38:48.430 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:40:29.662 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:40:29.662 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:40:29.662 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:40:29.662 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:42:11.285 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:42:11.285 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:42:11.285 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:42:11.285 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:44:22.647 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:44:22.647 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:44:22.647 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:44:22.648 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:47:03.272 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:47:03.272 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:47:03.272 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:47:03.272 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:49:29.131 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:49:29.132 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:49:29.132 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:49:29.132 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:50:23.189 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:50:23.190 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:50:23.190 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:50:23.190 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:50:41.260 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:50:41.261 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:50:41.261 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:50:41.261 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:50:57.224 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:50:57.224 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:50:57.224 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:50:57.224 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:51:16.555 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:51:16.557 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:51:16.557 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:51:16.558 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:52:26.517 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:52:26.522 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:52:26.522 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:52:26.522 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:54:39.121 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:54:39.122 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:54:39.122 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:54:39.122 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:54:44.187 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:54:44.189 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:54:44.189 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:54:44.189 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:54:54.047 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:54:54.048 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:54:54.048 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:54:54.048 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:55:26.464 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:55:26.465 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:55:26.466 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:55:26.466 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:55:31.624 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:55:31.625 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:55:31.625 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:55:31.625 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 19:55:36.943 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:135 - 加载配置文件
+2026-07-24 19:55:36.943 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:139 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 19:55:36.943 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:140 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 19:55:36.943 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:141 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 20:00:20.772 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:154 - 加载配置文件
+2026-07-24 20:00:20.773 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:158 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 20:00:20.773 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:159 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 20:00:20.773 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:160 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 20:04:30.418 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:154 - 加载配置文件
+2026-07-24 20:04:30.418 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:158 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 20:04:30.418 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:159 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 20:04:30.418 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:160 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 20:04:56.176 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:154 - 加载配置文件
+2026-07-24 20:04:56.176 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:158 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 20:04:56.176 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:159 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 20:04:56.176 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:160 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 20:05:09.330 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:154 - 加载配置文件
+2026-07-24 20:05:09.330 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:158 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-24 20:05:09.330 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:159 - 表信息与字段信息构建流程后续继续补充
+2026-07-24 20:05:09.330 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:160 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-24 20:05:21.826 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:168 - 检测到 metrics 配置，指标链路入口已准备就绪
+2026-07-24 20:05:21.826 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:169 - 指标入库与指标向量索引逻辑后续继续补充
+2026-07-24 20:05:21.826 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:171 - 当前阶段完成：配置加载与元数据知识库构建骨架准备
+2026-07-25 10:53:26.369 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:184 - 加载配置文件
+2026-07-25 10:53:26.369 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:188 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-25 10:53:26.370 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:189 - 表信息与字段信息构建流程后续继续补充
+2026-07-25 10:53:26.370 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:190 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-25 10:53:34.653 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:184 - 加载配置文件
+2026-07-25 10:53:34.654 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:188 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-25 10:53:34.655 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:189 - 表信息与字段信息构建流程后续继续补充
+2026-07-25 10:53:34.655 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:190 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-25 10:54:19.596 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:184 - 加载配置文件
+2026-07-25 10:54:19.596 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:188 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-25 10:54:19.596 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:189 - 表信息与字段信息构建流程后续继续补充
+2026-07-25 10:54:19.596 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:190 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-25 10:55:45.952 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:184 - 加载配置文件
+2026-07-25 10:55:45.952 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:188 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-25 10:55:45.952 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:189 - 表信息与字段信息构建流程后续继续补充
+2026-07-25 10:55:45.952 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:190 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-25 11:01:27.705 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:184 - 加载配置文件
+2026-07-25 11:01:27.705 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:188 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-25 11:01:27.705 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:189 - 表信息与字段信息构建流程后续继续补充
+2026-07-25 11:01:27.705 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:190 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-25 11:03:59.743 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:184 - 加载配置文件
+2026-07-25 11:03:59.743 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:188 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-25 11:03:59.743 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:189 - 表信息与字段信息构建流程后续继续补充
+2026-07-25 11:03:59.743 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:190 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-25 11:04:50.651 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:184 - 加载配置文件
+2026-07-25 11:04:50.651 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:188 - 检测到 tables 配置，表链路入口已准备就绪
+2026-07-25 11:04:50.651 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:189 - 表信息与字段信息构建流程后续继续补充
+2026-07-25 11:04:50.651 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:190 - 字段向量索引与字段值全文索引逻辑后续继续补充
+2026-07-25 11:05:01.856 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:198 - 检测到 metrics 配置，指标链路入口已准备就绪
+2026-07-25 11:05:01.856 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:199 - 指标入库与指标向量索引逻辑后续继续补充
+2026-07-25 11:05:01.856 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:201 - 当前阶段完成：配置加载与元数据知识库构建骨架准备
+2026-07-25 13:18:29.725 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:272 - 保存表信息和字段信息到 Meta MySQL
+2026-07-25 13:19:41.016 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:272 - 保存表信息和字段信息到 Meta MySQL
+2026-07-25 13:19:58.199 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:275 - 为字段信息建立向量索引
+2026-07-25 13:19:58.341 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:278 - 为字段取值建立全文索引
+2026-07-25 13:19:58.357 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:284 - 保存指标信息到数据库成功
+2026-07-25 13:20:00.330 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:288 - 为指标信息建立向量索引成功
