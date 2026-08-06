@@ -1,6 +1,7 @@
-def main():
-    print("Hello from shopkeeper-agent!")
+from fastapi import FastAPI
+from app.api.lifespan import lifespan
+from app.api.routers.query_router import query_router
 
+app = FastAPI(lifespan = lifespan)
 
-if __name__ == "__main__":
-    main()
+app.include_router(query_router)
