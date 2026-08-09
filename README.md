@@ -1,10 +1,4 @@
 <div align='center'>
-  <h1 style="margin-top: 15px;">「电商问数」智能数据分析 Agent</h1>
-  <h4><b>shopkeeper-agent</b></h4>
-  <p><em>可能是全网最适合用于系统学习 LangGraph 的智能问数实战项目，配套系统性文字教程与对应章节分支，带你打通混合检索、多阶段推理、SQL 生成与执行全链路</em></p>
-</div>
-
-<div align='center'>
 
 ![AI](https://img.shields.io/badge/AI-Agent-00c853?style=flat)
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB.svg?logo=python&logoColor=white)
@@ -40,8 +34,6 @@
     - 不停留在 Prompt 设计，而是会真实生成 SQL、执行查询，并以流式方式返回结果。
 - **工程化后端结构清晰**
     - 基于 `FastAPI + LangGraph + Repository + Client Manager` 组织配置、客户端、仓储层、服务层与智能体流程，便于维护和扩展。
-- **不仅有实战代码，还有完整配套教程文档**
-    - 项目配有一套系统化、持续更新、完全免费的教程讲义，适合按章节从数仓基础、元数据知识库到问数智能体流程逐步学习。
 - **兼顾学习价值与可扩展性**
     - 既可以按教程章节逐步理解，也可以在此基础上继续扩展权限控制、SQL 审核、结果可视化等能力。
 
@@ -189,5 +181,49 @@ uv run python -m app.scripts.build_meta_knowledge -c conf/meta_config.yaml
 
 这一步会把表字段元数据写入 MySQL，把字段和指标向量写入 Qdrant，并把字段真实取值写入 Elasticsearch。
 
-### 8.测试代码
-  执行app/agent/graph.py
+### 8. 启动后端
+
+```bash
+uv run fastapi dev main.py
+```
+
+后端接口：
+
+```text
+POST http://127.0.0.1:8000/api/query
+```
+
+请求示例：
+
+```json
+{
+    "query": "统计华北地区的销售总额"
+}
+```
+
+SSE 消息类型：
+
+| 类型       | 含义         |
+| ---------- | ------------ |
+| `progress` | 节点执行进度 |
+| `result`   | 最终查询结果 |
+| `error`    | 全局异常消息 |
+
+### 9. 启动前端
+
+```bash
+cd frontend
+pnpm install
+pnpm dev
+```
+
+前端默认通过 Vite 代理把 `/api` 转发到 `http://127.0.0.1:8000`。如需修改：
+
+```bash
+cd frontend
+cp .env.example .env
+```
+
+```bash
+VITE_DEV_PROXY_TARGET=http://127.0.0.1:8000
+```
